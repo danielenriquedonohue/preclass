@@ -1,0 +1,4 @@
+age1=35
+age2=97
+print(age1 + age2)
+print(age1 % age2)

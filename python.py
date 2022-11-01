@@ -4,5 +4,5 @@ daniel=23
 print(daniel)
 tom=jeff=phill=1993
 print(tom)
-name,age='daniel',23
+name, age='daniel',23
 print (name, age)

@@ -47,3 +47,10 @@ print(shoplist[2])
 print(len(shoplist))
 
 # this prints the length or the number of items in shoplist
+
+
+#8 intro to dictionaries
+
+#dictionaries are a type of list that allow for searching for a particular value pair and storing information about something, can also be nested
+students = {"bob":12,"Rachel":13,"Emily":15}
+print(students["bob"])

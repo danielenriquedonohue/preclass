@@ -31,3 +31,19 @@ age = kyle +1
 print('age is now equal to kyle, which is 34 + 1 =',age)
 print(age)
 print(kyle)
+
+
+#7 Introduction to Lists
+
+# a list is a conainer that holders values are various locations that can be called on at a given time
+shoplist = ["Apples","Oranges","Bananas","Cheese"]
+print(shoplist)
+# we can select any item in the list by calling the list name and the index number associated to that item
+print(shoplist[2])
+#this will select and print the item at index 2, the third item in the list
+
+# we can then perform functions on those items at will, such as deletions and modifications
+
+print(len(shoplist))
+
+# this prints the length or the number of items in shoplist

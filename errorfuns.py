@@ -1,2 +1,22 @@
-map=[['utah','maine','vermont'],['washington','califonria','oregon']]
-print(map[0])
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+testy = ['fuck','shit',0,'meow',1]
+
+print(testy)

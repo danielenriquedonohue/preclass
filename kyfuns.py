@@ -56,5 +56,6 @@ students = {"bob": 12, "Rachel": 13, "Emily": 15}
 print(students["bob"])
 
 """
-Testing gitdoc saving
+Testing gitdoc saving  
+Test 2, auto saves every 30 seconds
 """

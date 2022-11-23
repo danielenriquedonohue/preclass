@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "preclass",
+			"path": "."
+		}
+	],
+	"settings": {
+		"gitdoc.enabled": true
+	}
+}
